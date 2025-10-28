@@ -53,7 +53,6 @@ pip install -r requirements.txt
 3. **Create `.env`** in project root and add keys, for example:
 ```
 MISTRAL_API_KEY=your_mistral_api_key
-OPENAI_API_KEY=your_openai_api_key  # optional/fallback
 ```
 
 4. **Run Chainlit UI**:
