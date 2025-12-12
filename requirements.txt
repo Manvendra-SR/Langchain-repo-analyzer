@@ -13,3 +13,4 @@ GitPython
 python-dotenv
 jupyter
 chainlit
+-e .
